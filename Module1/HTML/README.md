@@ -1,2 +1,2 @@
-# Tharun
+# Tinkal
  web dsgn asgn
